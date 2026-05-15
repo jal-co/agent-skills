@@ -1,6 +1,6 @@
 # agent-skills
 
-A collection of reusable agent skills and plugins for OpenClaw, pi, and other [agentskills.io](https://agentskills.io)-compatible agents. Each entry is a Git submodule pointing to its own repo.
+A collection of reusable agent skills and plugins for OpenClaw, Hermes, pi, and other [agentskills.io](https://agentskills.io)-compatible agents. Each entry is a Git submodule pointing to its own repo.
 
 ## Setup
 
