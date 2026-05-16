@@ -1,3 +1,6 @@
 [submodule "openclaw-webclaw"]
 	path = openclaw-webclaw
 	url = https://github.com/jal-co/openclaw-webclaw.git
+[submodule "hermes-webclaw"]
+	path = hermes-webclaw
+	url = https://github.com/jal-co/hermes-webclaw.git

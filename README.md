@@ -21,6 +21,7 @@ git submodule update --init --recursive
 | Skill | Description | Source |
 |---|---|---|
 | `openclaw-webclaw` | OpenClaw plugin replacing Firecrawl with native WebClaw v1 API — scrape, crawl, extract, diff, search, summarize, map, batch, brand | [repo](https://github.com/jal-co/openclaw-webclaw) |
+| `hermes-webclaw` | Hermes Agent plugin replacing Firecrawl with native WebClaw v1 API — search, scrape/extract, crawl | [repo](https://github.com/jal-co/hermes-webclaw) |
 
 ## Adding a Skill
 
